@@ -18,3 +18,4 @@ In your solution you must provide the following in your Github link account:
   UML Class Diagram
   Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
+[https://lucid.app/lucidchart/716aa1eb-4ad7-4db9-8648-3aa86d64aef5/edit?viewport_loc=-3861%2C-844%2C8466%2C3530%2C0_0&invitationId=inv_4254e383-77b6-4884-8bfd-ce40a0f4a7ad]
