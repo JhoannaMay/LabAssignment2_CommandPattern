@@ -19,5 +19,6 @@ In your solution you must provide the following in your Github link account:
   Uploaded java codes for the solution.
 Upload your GitHub Solution link here.
 
-![LabAssignment2CommandPattern_LACORTE](https://github.com/user-attachments/assets/4537dc57-787d-486d-a137-11991f4450bd)
+
+![LabAssignment2CommandPattern_LACORTE (1)](https://github.com/user-attachments/assets/22b961d5-c1b0-4bf9-8846-1a1658358f0b)
 
